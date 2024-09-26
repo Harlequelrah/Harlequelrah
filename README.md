@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, je suis Harlequelrah, passionné de <br>programmation et explorateur du monde du code. <br>💻 Actuellement développeur backend Python,<br> je suis en transition vers le full stack en apprenant <br>le frontend JavaScript. 🎨 Mon objectif est de perfectionner<br>mes compétences en style et design avant de me lancer<br>dans l'univers du développement mobile. 🚀
+👋 Salut, moi c'est Harlequelrah!un </br>aventurier du code, toujours prêt à explorer</br> de nouvelles technologies et à relever des défis !. <br>💻 Actuellement développeur backend Python,<br> je suis en transition vers le full stack en apprenant <br>le frontend JavaScript. 🎨 Mon objectif est de perfectionner<br>mes compétences en style et design avant de me lancer<br>dans l'univers du développement mobile. 🚀
 
 
 ## 🌐 Socials:
