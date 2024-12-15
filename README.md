@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, moi c'est Harlequelrah!un aventurier du code, toujours<br> prêt à explorer de nouvelles technologies et à relever des défis !. <br>💻 Actuellement développeur backend Python,<br> je suis en transition vers le full stack en apprenant <br>le frontend JavaScript. 🎨 Mon objectif est de perfectionner<br>mes compétences en style et design tout en m'immergeant <br>dans l'univers du développement mobile. 🚀 <br>Contactez moi , par téléphone : +228 91 36 10 29 ou par email  maximeatsoudegbovi@gmail.com
+💻 Actuellement développeur backend Python avec FASTAPI et DJANGO ,<br> je suis en transition vers le full stack en apprenant <br>le frontend JavaScript avec ANGULAR. 🎨 Mon objectif est de perfectionner<br>mes compétences en style et design avec SCSS et Tailwind CSS tout en m'immergeant <br>dans l'univers du développement mobile avec Flutter. 🚀 <br>Contactez moi , par téléphone : +228 91 36 10 29 ou par email  maximeatsoudegbovi@gmail.com
 
 
 ## 🌐 Socials:
