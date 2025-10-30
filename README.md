@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Développeur Fullstack ,  avec FASTAPI un backend python très performant  , Angular un frontend JavaScript robuste et de qualité et Flutter pour des interfaces mobile intuitives et réactives . </br> 🎨 Pour le style et le design j'améliore continuellement mes compétences avec SCSS et Tailwind CSS <br>🚀 Actuellement je me lance dans la découverte du monde de la data . Contactez-moi pour tout projet où mes compétences et mon expertise vous conviennent ..  
+💻 Développeur Fullstack ,  avec FASTAPI un backend python très performant  , Angular un frontend JavaScript robuste et de qualité et Flutter pour des interfaces mobile intuitives et réactives . </br> 🎨 Pour le style et le design j'améliore continuellement mes compétences avec SCSS et Tailwind CSS <br>🚀 Actuellement en master IA & Big Data je me lance dans la découverte du monde de la data . Contactez-moi pour tout projet où mes compétences et mon expertise vous conviennent .  
 
 
 ## 🌐 Socials:
